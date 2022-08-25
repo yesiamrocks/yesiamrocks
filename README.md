@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Pavel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">UX/UI Designer | Specializing in UX/UI and Web animation | Creator of cssanimation.io and Scrollyjs.com</h3>
 
 <p align="left"> <a href="https://twitter.com/yesiamrocks" target="blank"><img src="https://img.shields.io/twitter/follow/yesiamrocks?logo=twitter&style=for-the-badge" alt="yesiamrocks" /></a> </p>
 
