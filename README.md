@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...<img src="https://img.shields.io/twitter/follow/yesiamrocks?logo=twitter&style=for-the-badge" alt="yesiamrocks" />
+- ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi <img style="margin-bottom: -9px;" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm Pavel</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm Pavel</h1>
 <h3 align="center">UX/UI Designer | Specializing in UX/UI and Web animation <br> Creator of cssanimation.io and Scrollyjs.com</h3>
 
 <p align="left"> <a href="https://twitter.com/yesiamrocks" target="blank"><img src="https://img.shields.io/twitter/follow/yesiamrocks?logo=twitter&style=for-the-badge" alt="yesiamrocks" /></a> </p>
@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yesiamrocks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yesiamrocks" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shafayetul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shafayetul/" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/shafayetul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shafayetul/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
