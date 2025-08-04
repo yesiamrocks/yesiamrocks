@@ -4,6 +4,15 @@
 
 Visionary UI/UX Designer & Design Leader • Expert in Web Animation, Product Design & Team Leadership • Creator of {css}animation, scrollyJS, AnimText & Triggle • Host of Pixels & Projects • Building Scalable Digital UX
 
+[![{css}animation](https://img.shields.io/badge/%7Bcss%7Danimation-Library-ff69b4?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/yesiamrocks/cssanimation)
+[![scrollyJS](https://img.shields.io/badge/scrollyJS-Scroll%20Animation-4caf50?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/yesiamrocks/scrollyjs)
+[![AnimText](https://img.shields.io/badge/AnimText-Text%20Animation-blueviolet?style=for-the-badge&logo=typography&logoColor=white)](https://github.com/yesiamrocks/animtext)
+[![Triggle.js](https://img.shields.io/badge/Triggle-Trigger%20Engine-2196f3?style=for-the-badge&logo=thunderbird&logoColor=white)](https://github.com/yesiamrocks/triggle)
+[![ClickStyles](https://img.shields.io/badge/ClickStyles-Button%20Animation-e91e63?style=for-the-badge&logo=mouse&logoColor=white)](https://github.com/yesiamrocks/ClickStyles)
+[![GSAPAnimation](https://img.shields.io/badge/gsapanimation-GSAP%20Library-0aa36c?style=for-the-badge&logo=greensock&logoColor=white)](https://github.com/yesiamrocks/gsapanimation)
+[![ColorWave](https://img.shields.io/badge/ColorWave-Gradient%20Tools-9c27b0?style=for-the-badge&logo=palette&logoColor=white)](https://github.com/yesiamrocks/colorwave)
+[![PrefabUI](https://img.shields.io/badge/PrefabUI-UI%20Components-3f51b5?style=for-the-badge&logo=layout&logoColor=white)](https://github.com/yesiamrocks/prefabui)
+
 ## What I bring to the table:
 
 - 16+ years of UI/UX, product design, and front-end development experience.
