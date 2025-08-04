@@ -22,14 +22,37 @@ Visionary UI/UX Designer & Design Leader • Expert in Web Animation, Product De
 
 ## Technologies & Tools
 
-**Design:**  
-Figma · Sketch · Adobe XD · Zeplin · Notion · FigJam
+**Design:**
 
-**Code & Front-End:**  
-HTML5 · CSS3 · JavaScript (ES6+) · Tailwind CSS · React.js · GSAP · Webpack · Vite · Webflow
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Zeplin](https://img.shields.io/badge/Zeplin-FFAE00?style=for-the-badge&logo=zeplin&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![FigJam](https://img.shields.io/badge/FigJam-9146FF?style=for-the-badge&logo=figma&logoColor=white)
 
-**Workflow:**  
-Git & GitHub · Agile/Scrum · CI/CD (GitHub Actions, Netlify) · VS Code · Design Token Systems
+**Code & Front-End:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+
+**Workflow:**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=trello&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Design Tokens](https://img.shields.io/badge/Design%20Token%20Systems-6200EA?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Webflow Skills
 
@@ -54,15 +77,7 @@ Tips, tools, and real-world insights on UI/UX, animation, leadership & web dev.
 - [10 Powerful Hacks To Boost Your Skills](https://www.linkedin.com/pulse/10-powerful-hacks-boost-your-skills-pavel-pmp-prince2-mcps-yyooc/)
 - [Break Free: 10 Habits That Are Killing Your Developer Potential](https://www.linkedin.com/pulse/break-free-10-habits-killing-your-developer-potential/)
 
-[Subscribe here](https://www.linkedin.com/newsletters/pixels-projects-with-pavel-7093275757006782464/)
-
-## Buy Me a Coffee
-
-If you enjoy my work or use my libraries in your projects, consider supporting me:
-
-👉 [**Buy Me a Coffee**](https://buymeacoffee.com/yesiamrocks)
-
-Your support helps me build more tools, write better tutorials, and share even more with the community.
+[![Subscribe here](https://img.shields.io/badge/Pixels_&_Projects-Subscribe-blueviolet?style=for-the-badge&&logo=linkedin)](https://www.linkedin.com/newsletters/pixels-projects-with-pavel-7093275757006782464/)
 
 ## Ask me about …
 
@@ -72,11 +87,18 @@ Your support helps me build more tools, write better tutorials, and share even m
 - Front-end development workflows
 - Leading creative teams or cross-functional collaboration
 
+## Support My Work
+
+I'm building tools that help designers and developers create smooth, creative, and fast websites, landing page and etc.
+Your support helps me keep improving my open-source animation libraries, share helpful tutorials, and build new tools for the web design and dev community.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yesiamrocks) [![Join Membership](https://img.shields.io/badge/Become%20a%20Member-Monthly%20Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yesiamrocks/membership)
+
 ## How to reach me
 
-- **LinkedIn:** [linkedin.com/in/yesiamrocks](https://www.linkedin.com/in/yesiamrocks)
-- **Twitter/X:** [@yesiamrocks](https://twitter.com/yesiamrocks)
-- **Email:** `info.bdpavel@gmail.com`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@shafayetul-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafayetul/)
+[![Twitter](https://img.shields.io/badge/Twitter-@yesiamrocks-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yesiamrocks)
+[![Email](https://img.shields.io/badge/Email-info.bdpavel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.bdpavel@gmail.com)
 
 ## Fun fact
 
