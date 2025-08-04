@@ -1,38 +1,90 @@
-<!--
-**yesiamrocks/yesiamrocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" alt="Shafayetul Islam Pavel on Github" width="30px">, I’m Shafayetul Islam Pavel, PMP®, PRINCE2®, MCPS</h1>
 
-Here are some ideas to get you started:
+Visionary UI/UX Designer & Design Leader • Expert in Web Animation, Product Design & Team Leadership • Creator of cssanimation.io, scrollyJS, AnimText & Triggle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" alt="Shafayetul Islam Pavel on Github" width="30px">, I'm Pavel</h1>
-<h3 align="center">UX/UI Designer | Specializing in UX/UI and Web animation <br> Creator of cssanimation.io and ScrollyJS</h3>
+I’m a seasoned UI/UX designer and product-focused front-end expert with 16+ years of experience crafting high-performance, user-centered digital experiences. From early-stage startups to Fortune 500 clients, I’ve delivered design systems, motion-first UIs, and conversion-driven web products that drive results.
 
-<p align="center"> <a href="https://twitter.com/yesiamrocks" target="blank"><img src="https://img.shields.io/twitter/follow/yesiamrocks?logo=twitter&style=for-the-badge" alt="yesiamrocks" /></a> </p>
+I’m best known for creating open-source tools like **cssanimation.io**, **scrollyJS**, **AnimText** **Triggle** and more... used by designers and developers globally to bring scalable, expressive animations to the web. I blend deep technical knowledge (GSAP, CSS, JavaScript, Tailwind) with visual storytelling, interaction design, and design leadership.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yesiamrocks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yesiamrocks" height="30" width="40" /></a><a href="https://linkedin.com/in/shafayetul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shafayetul/" height="30" width="40" /></a>
-</p>
+As a certified PMP®, PRINCE2®, and MCPS professional, I bring not just design talent but also operational and delivery expertise—leading remote, cross-functional teams across time zones, aligning product goals with user needs, and mentoring creative talent along the way.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+I also run _Pixels & Projects with Pavel_, a newsletter and podcast where I explore motion design, product strategy, and creative leadership.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yesiamrocks&show_icons=true&locale=en&layout=compact" alt="yesiamrocks" /></p>
+## What I bring to the table:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yesiamrocks&show_icons=true&locale=en" alt="yesiamrocks" /></p>
+- 16+ years of UI/UX, product design, and front-end development experience.
+- PMP®, PRINCE2®, and Microsoft Certified Professional (MCPS)
+- Deep expertise in animation, interaction design, design systems & accessibility
+- Leadership in remote, cross-functional teams for global clients
+- Former clients include agencies, SaaS platforms, publishers, and Fortune 500s
+- Strong track record of mentoring teams, leading projects, and shipping delightful user experiences
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yesiamrocks&" alt="yesiamrocks" /></p>
+## Skills
 
-<div align="center">
+- UI/UX Design · Landing Pages · Motion Design · Design Systems
+- Web Animation (CSS, GSAP) · Microinteractions
+- Interaction Design · Accessibility-First Design
+- Team Leadership · Product Design Strategy
 
-### Show some ❤️ by starring some of the repositories!
+## Technologies & Tools
 
-</div>
+**Design:**  
+Figma · Sketch · Adobe XD · Zeplin · Notion · FigJam
+
+**Code & Front-End:**  
+HTML5 · CSS3 · JavaScript (ES6+) · Tailwind CSS · React.js · GSAP · Webpack · Vite · Webflow
+
+**Workflow:**  
+Git & GitHub · Agile/Scrum · CI/CD (GitHub Actions, Netlify) · VS Code · Design Token Systems
+
+## Webflow Skills
+
+- Webflow CMS · Webflow Animations (IX2) · Webflow Ecommerce
+- Lottie in Webflow · Figma to Webflow · Advanced Webflow Interactions
+- No-Code Prototyping · Webflow Developer Handoff · Client-First Structure
+
+## Highlight Projects
+
+- [{css}animation](https://github.com/yesiamrocks/cssanimation): Over 500 Effects, Letter, Word & Line Stagger Animations, Utilities, and easy CDN or NPM Install.
+- [scrollyJS](https://github.com/yesiamrocks/scrollyjs): Minimal, no-dependency scroll animation library
+- [AnimText](https://github.com/yesiamrocks/animtext): Advanced text animation for headlines, intros, and more
+- [Triggle](https://github.com/yesiamrocks/triggle): Smart trigger-based animation engine (scroll, hover, click)
+
+## Latest Newsletter Issues
+
+_Pixels & Projects with Pavel_ on LinkedIn:  
+Tips, tools, and real-world insights on UI/UX, animation, leadership & web dev.
+
+- [UI/UX Designer Interview Tips: How to Prepare Like a Pro](https://www.linkedin.com/pulse/uiux-designer-interview-tips-how-prepare-like-pro-shafayetul-islam-opocc)
+- [A Powerful CSS Animation Library for Advanced Motion Design](https://www.linkedin.com/pulse/powerful-css-animation-library-advanced-motion-design-9tjnc/)
+- [10 Powerful Hacks To Boost Your Skills](https://www.linkedin.com/pulse/10-powerful-hacks-boost-your-skills-pavel-pmp-prince2-mcps-yyooc/)
+- [Break Free: 10 Habits That Are Killing Your Developer Potential](https://www.linkedin.com/pulse/break-free-10-habits-killing-your-developer-potential/)
+
+[Subscribe here](https://www.linkedin.com/newsletters/pixels-projects-with-pavel-7093275757006782464/)
+
+## Buy Me a Coffee
+
+If you enjoy my work or use my libraries in your projects, consider supporting me:
+
+👉 [**Buy Me a Coffee**](https://buymeacoffee.com/yesiamrocks)
+
+Your support helps me build more tools, write better tutorials, and share even more with the community.
+
+## Ask me about …
+
+- UI/UX strategy for web & mobile
+- Advanced CSS or GSAP animation
+- Building design systems or motion libraries
+- Front-end development workflows
+- Leading creative teams or cross-functional collaboration
+
+## How to reach me
+
+- **LinkedIn:** [linkedin.com/in/yesiamrocks](https://www.linkedin.com/in/yesiamrocks)
+- **Twitter/X:** [@yesiamrocks](https://twitter.com/yesiamrocks)
+- **Email:** `hi [at] buildwithpavel.com`
+- **Portfolio/Blog:** [BuildWithPavel.com](https://buildwithpavel.com)
+
+## Fun fact
+
+Despite being a designer, I spend hours perfecting my animation easing curves, write JavaScript for fun, and sketch motion flowcharts in my notebook. Yes, motion _is_ my love language.
