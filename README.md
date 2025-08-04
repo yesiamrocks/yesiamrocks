@@ -4,14 +4,14 @@
 
 Visionary UI/UX Designer & Design Leader • Expert in Web Animation, Product Design & Team Leadership • Creator of {css}animation, scrollyJS, AnimText & Triggle • Host of Pixels & Projects • Building Scalable Digital UX
 
-[![{css}animation](https://img.shields.io/badge/%7Bcss%7Danimation-Library-ff69b4?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/yesiamrocks/cssanimation)
-[![scrollyJS](https://img.shields.io/badge/scrollyJS-Scroll%20Animation-4caf50?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/yesiamrocks/scrollyjs)
-[![AnimText](https://img.shields.io/badge/AnimText-Text%20Animation-blueviolet?style=for-the-badge&logo=typography&logoColor=white)](https://github.com/yesiamrocks/animtext)
-[![Triggle.js](https://img.shields.io/badge/Triggle-Trigger%20Engine-2196f3?style=for-the-badge&logo=thunderbird&logoColor=white)](https://github.com/yesiamrocks/triggle)
+[![{css}animation](https://img.shields.io/badge/%7Bcss%7Danimation-Library-7e2ea0?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/yesiamrocks/cssanimation)
+[![scrollyJS](https://img.shields.io/badge/scrollyJS-Scroll%20Animation-3ec6f2?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/yesiamrocks/scrollyjs)
+[![AnimText](https://img.shields.io/badge/AnimText-Text%20Animation-f43f5e?style=for-the-badge&logo=typography&logoColor=white)](https://github.com/yesiamrocks/animtext)
+[![Triggle.js](https://img.shields.io/badge/Triggle-Trigger%20Engine-FF6600?style=for-the-badge&logo=thunderbird&logoColor=white)](https://github.com/yesiamrocks/triggle)
 [![ClickStyles](https://img.shields.io/badge/ClickStyles-Button%20Animation-e91e63?style=for-the-badge&logo=mouse&logoColor=white)](https://github.com/yesiamrocks/ClickStyles)
-[![GSAPAnimation](https://img.shields.io/badge/gsapanimation-GSAP%20Library-0aa36c?style=for-the-badge&logo=greensock&logoColor=white)](https://github.com/yesiamrocks/gsapanimation)
-[![ColorWave](https://img.shields.io/badge/ColorWave-Gradient%20Tools-9c27b0?style=for-the-badge&logo=palette&logoColor=white)](https://github.com/yesiamrocks/colorwave)
-[![PrefabUI](https://img.shields.io/badge/PrefabUI-UI%20Components-3f51b5?style=for-the-badge&logo=layout&logoColor=white)](https://github.com/yesiamrocks/prefabui)
+[![GSAPAnimation](https://img.shields.io/badge/gsapanimation-GSAP%20Library-0ae448?style=for-the-badge&logo=greensock&logoColor=white)](https://github.com/yesiamrocks/gsapanimation)
+[![ColorWave](https://img.shields.io/badge/ColorWave-Gradient%20Tools-FFB500?style=for-the-badge&logo=palette&logoColor=white)](https://github.com/yesiamrocks/colorwave)
+[![PrefabUI](https://img.shields.io/badge/PrefabUI-UI%20Components-1DA1F2?style=for-the-badge&logo=layout&logoColor=white)](https://github.com/yesiamrocks/prefabui)
 
 ## What I bring to the table:
 
@@ -76,17 +76,26 @@ Visionary UI/UX Designer & Design Leader • Expert in Web Animation, Product De
 - [AnimText](https://github.com/yesiamrocks/animtext): Advanced text animation for headlines, intros, and more
 - [Triggle](https://github.com/yesiamrocks/triggle): Smart trigger-based animation engine (scroll, hover, click)
 
+## Content & Community
+
+I share UI/UX strategy, animation tips, and creative dev insights through:
+
+<!-- DEV-TO-START -->
+<!-- DEV-TO-END -->
+
+[![DEV Blog](https://img.shields.io/badge/DEV-Blog-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yesiamrocks)
+
 ## Latest Newsletter Issues
 
-**_Pixels & Projects with Pavel_** on LinkedIn:  
-Tips, tools, and real-world insights on UI/UX, animation, leadership & web dev.
+Tips, tools, and real-world insights on UI/UX, web animation, design leadership, and creative dev workflows.
+**_Pixels & Projects with Pavel_** is published on LinkedIn.
 
 - [UI/UX Designer Interview Tips: How to Prepare Like a Pro](https://www.linkedin.com/pulse/uiux-designer-interview-tips-how-prepare-like-pro-shafayetul-islam-opocc)
 - [A Powerful CSS Animation Library for Advanced Motion Design](https://www.linkedin.com/pulse/powerful-css-animation-library-advanced-motion-design-9tjnc/)
 - [10 Powerful Hacks To Boost Your Skills](https://www.linkedin.com/pulse/10-powerful-hacks-boost-your-skills-pavel-pmp-prince2-mcps-yyooc/)
 - [Break Free: 10 Habits That Are Killing Your Developer Potential](https://www.linkedin.com/pulse/break-free-10-habits-killing-your-developer-potential/)
 
-[![Subscribe here](https://img.shields.io/badge/Pixels_&_Projects-Subscribe-blueviolet?style=for-the-badge&&logo=linkedin)](https://www.linkedin.com/newsletters/pixels-projects-with-pavel-7093275757006782464/)
+[![Newsletter](https://img.shields.io/badge/Pixels_&_Projects_with_Pavel-Subscribe-a6ca4b?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/newsletters/pixels-projects-with-pavel-7093275757006782464/)
 
 ## Ask me about …
 
