@@ -1,6 +1,6 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" alt="Shafayetul Islam Pavel on Github" width="30px">, I’m Shafayetul Islam Pavel, PMP®, PRINCE2®, MCPS</h1>
 
-[![Pavel, Design, Code. Animate. Lead](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=Design.%20Code.%20Animate.%20Lead&title=Pavel)](https://www.linkedin.com/in/shafayetul/)
+[![Pavel, Design. Code. Animate. Lead](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=Design.%20Code.%20Animate.%20Lead&title=Pavel)](https://www.linkedin.com/in/shafayetul/)
 
 Visionary UI/UX Designer & Design Leader • Expert in Web Animation, Product Design & Team Leadership • Creator of cssanimation.io, scrollyJS, AnimText & Triggle • Host of Pixels & Projects • Building Scalable Digital UX
 
