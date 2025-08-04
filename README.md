@@ -1,14 +1,8 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" alt="Shafayetul Islam Pavel on Github" width="30px">, I’m Shafayetul Islam Pavel, PMP®, PRINCE2®, MCPS</h1>
 
-Visionary UI/UX Designer & Design Leader • Expert in Web Animation, Product Design & Team Leadership • Creator of cssanimation.io, scrollyJS, AnimText & Triggle
+[![Pavel, Design, Code. Animate. Lead](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=Design.%20Code.%20Animate.%20Lead&title=Pavel)](https://pimp-my-readme-next.vercel.app)
 
-I’m a seasoned UI/UX designer and product-focused front-end expert with 16+ years of experience crafting high-performance, user-centered digital experiences. From early-stage startups to Fortune 500 clients, I’ve delivered design systems, motion-first UIs, and conversion-driven web products that drive results.
-
-I’m best known for creating open-source tools like **cssanimation.io**, **scrollyJS**, **AnimText** **Triggle** and more... used by designers and developers globally to bring scalable, expressive animations to the web. I blend deep technical knowledge (GSAP, CSS, JavaScript, Tailwind) with visual storytelling, interaction design, and design leadership.
-
-As a certified PMP®, PRINCE2®, and MCPS professional, I bring not just design talent but also operational and delivery expertise—leading remote, cross-functional teams across time zones, aligning product goals with user needs, and mentoring creative talent along the way.
-
-I also run _Pixels & Projects with Pavel_, a newsletter and podcast where I explore motion design, product strategy, and creative leadership.
+Visionary UI/UX Designer & Design Leader • Expert in Web Animation, Product Design & Team Leadership • Creator of cssanimation.io, scrollyJS, AnimText & Triggle • Host of Pixels & Projects • Building Scalable Digital UX
 
 ## What I bring to the table:
 
@@ -52,7 +46,7 @@ Git & GitHub · Agile/Scrum · CI/CD (GitHub Actions, Netlify) · VS Code · Des
 
 ## Latest Newsletter Issues
 
-_Pixels & Projects with Pavel_ on LinkedIn:  
+**_Pixels & Projects with Pavel_** on LinkedIn:  
 Tips, tools, and real-world insights on UI/UX, animation, leadership & web dev.
 
 - [UI/UX Designer Interview Tips: How to Prepare Like a Pro](https://www.linkedin.com/pulse/uiux-designer-interview-tips-how-prepare-like-pro-shafayetul-islam-opocc)
@@ -82,8 +76,7 @@ Your support helps me build more tools, write better tutorials, and share even m
 
 - **LinkedIn:** [linkedin.com/in/yesiamrocks](https://www.linkedin.com/in/yesiamrocks)
 - **Twitter/X:** [@yesiamrocks](https://twitter.com/yesiamrocks)
-- **Email:** `hi [at] buildwithpavel.com`
-- **Portfolio/Blog:** [BuildWithPavel.com](https://buildwithpavel.com)
+- **Email:** `info.bdpavel@gmail.com`
 
 ## Fun fact
 
