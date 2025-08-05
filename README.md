@@ -35,50 +35,52 @@ Experienced UI/UX designer with a strong foundation in responsive design, intera
 
 ### Design:
 
-![Figma](https://img.shields.io/badge/Figma-Interface%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-Vector%20UI-F7B500?style=for-the-badge&logo=sketch&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-UI%20%2B%20Prototyping-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Zeplin](https://img.shields.io/badge/Zeplin-Design%20Handoff-FFAE00?style=for-the-badge&logo=zeplin&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-UX%20Docs%20%26%20Planning-000000?style=for-the-badge&logo=notion&logoColor=white)
-![FigJam](https://img.shields.io/badge/FigJam-Collaborative%20Whiteboarding-9146FF?style=for-the-badge&logo=figma&logoColor=white)
-![UserTesting](https://img.shields.io/badge/UserTesting-User%20Research-0052CC?style=for-the-badge&logo=usertesting&logoColor=white)
-![Maze](https://img.shields.io/badge/Maze-Usability%20Testing-121212?style=for-the-badge&logo=maze&logoColor=white)
-![Tokens Studio](https://img.shields.io/badge/Tokens%20Studio-Design%20Tokens%20Mgmt-8C52FF?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Zeplin](https://img.shields.io/badge/Zeplin-FFAE00?style=for-the-badge&logo=zeplin&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![FigJam](https://img.shields.io/badge/FigJam-9146FF?style=for-the-badge&logo=figma&logoColor=white)
+![UserTesting](https://img.shields.io/badge/UserTesting-0052CC?style=for-the-badge)
+![Tokens Studio](https://img.shields.io/badge/Tokens%20Studio-8C52FF?style=for-the-badge&logo=figma&logoColor=white)
+![LottieFiles](https://img.shields.io/badge/LottieFiles-00BFFF?style=for-the-badge&logo=lottiefiles&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ### Code & Front-End:
 
-![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Logic%20%26%20Interactivity-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Utility%20Classes-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-Animation%20Engine-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-Bundler-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-Next%20Gen%20Bundler-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-Visual%20Development-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-Package%20Manager-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-Package%20Manager-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=javascript&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
 ### Workflow:
 
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Code%20Collaboration-181717?style=for-the-badge&logo=github&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-Sprint%20Driven-27ae60?style=for-the-badge&logo=jira&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-Team%20Workflow-3498db?style=for-the-badge&logo=trello&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automated%20Deploys-0064a5?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Build%20%26%20Deploy-2088ff?style=for-the-badge&logo=githubactions&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-Deploys-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma Handoff](https://img.shields.io/badge/Figma%20Handoff-Dev%20Ready%20Designs-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
-![Design Tokens](https://img.shields.io/badge/Design%20Tokens-System%20Workflow-6200EA?style=for-the-badge)
-![Notion](https://img.shields.io/badge/Notion-Docs%20%26%20Planning-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-27AE60?style=for-the-badge&logo=jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-3498DB?style=for-the-badge&logo=trello&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0064A5?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma Handoff](https://img.shields.io/badge/Figma%20Handoff-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Design Tokens](https://img.shields.io/badge/Design%20Tokens-6200EA?style=for-the-badge)
 
 ### Leadership & Strategy
 
-![Design Leadership](https://img.shields.io/badge/Design%20Leadership-Lead%20with%20Vision-c800de?style=for-the-badge&logo=leaders&logoColor=white)
-![Team Mentorship](https://img.shields.io/badge/Team%20Mentorship-Grow%20Talent-155dfc?style=for-the-badge&logo=people&logoColor=white)
-![Product Design Strategy](https://img.shields.io/badge/Product%20Design%20Strategy-Think%20Like%20a%20PM-f1c40f?style=for-the-badge&logoColor=white)
-![Agile & Scrum](https://img.shields.io/badge/Agile%20%26%20Scrum-Sprint%20Driven-27ae60?style=for-the-badge&logo=sprint&logoColor=white)
-![Cross-functional Collaboration](https://img.shields.io/badge/Cross--functional%20Collaboration-Team%20Alignment-e67e22?style=for-the-badge&logo=teams&logoColor=white)
+![Design Leadership](https://img.shields.io/badge/Design%20Leadership-c800de?style=for-the-badge)
+![Team Mentorship](https://img.shields.io/badge/Team%20Mentorship-155DFC?style=for-the-badge)
+![Product Design Strategy](https://img.shields.io/badge/Product%20Design%20Strategy-F1C40F?style=for-the-badge)
+![Agile & Scrum](https://img.shields.io/badge/Agile%20%26%20Scrum-27AE60?style=for-the-badge)
+![Cross-functional Collaboration](https://img.shields.io/badge/Cross--functional%20Collaboration-E67E22?style=for-the-badge)
 
 ## Webflow Skills
 
@@ -127,12 +129,12 @@ Tips, tools, and real-world insights on UI/UX, web animation, design leadership,
 I'm building tools that help designers and developers create smooth, creative, and fast websites, landing page and etc.
 Your support helps me keep improving my open-source animation libraries, share helpful tutorials, and build new tools for the web design and dev community.
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yesiamrocks) [![Join Membership](https://img.shields.io/badge/Become%20a%20Member-Monthly%20Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yesiamrocks/membership)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/yesiamrocks) [![Join Membership](https://img.shields.io/badge/Become%20a%20Member-Monthly%20Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/yesiamrocks/membership)
 
 ## How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@shafayetul-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafayetul/)
-[![Twitter](https://img.shields.io/badge/Twitter-@yesiamrocks-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yesiamrocks)
+[![Twitter](https://img.shields.io/badge/Twitter-@yesiamrocks-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yesiamrocks)
 [![Email](https://img.shields.io/badge/Email-yesiamrocks@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yesiamrocks@gmail.com)
 
 ## Fun fact
