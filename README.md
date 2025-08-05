@@ -24,12 +24,26 @@ Experienced UI/UX designer with a strong foundation in responsive design, intera
 - Former clients include agencies, SaaS platforms, publishers, and Fortune 500s
 - Strong track record of mentoring teams, leading projects, and shipping delightful user experiences
 
-## Skills
+## Core Skills
 
 - UI/UX Design · Landing Pages · Motion Design · Design Systems
 - Web Animation (CSS, GSAP) · Microinteractions
 - Interaction Design · Accessibility-First Design
 - Team Leadership · Product Design Strategy
+
+## Webflow Skills
+
+- Webflow CMS · Webflow Animations (IX2) · Webflow Ecommerce
+- Lottie in Webflow · Figma to Webflow · Advanced Webflow Interactions
+- No-Code Prototyping · Webflow Developer Handoff · Client-First Structure
+
+## Video Editing & Content Creation
+
+- Video Editing, Motion Graphics, Audio Sync & Transitions
+- Storyboarding & Visual Flow
+- Reels, Promo Edits, and UI Animation Videos
+- Editing for YouTube, Shorts, and LinkedIn
+- Workflow: Premiere Pro · After Effects · CapCut · Descript · ScreenStudio
 
 ## Technologies & Tools
 
@@ -81,20 +95,6 @@ Experienced UI/UX designer with a strong foundation in responsive design, intera
 ![Product Design Strategy](https://img.shields.io/badge/Product%20Design%20Strategy-F1C40F?style=for-the-badge)
 ![Agile & Scrum](https://img.shields.io/badge/Agile%20%26%20Scrum-27AE60?style=for-the-badge)
 ![Cross-functional Collaboration](https://img.shields.io/badge/Cross--functional%20Collaboration-E67E22?style=for-the-badge)
-
-## Webflow Skills
-
-- Webflow CMS · Webflow Animations (IX2) · Webflow Ecommerce
-- Lottie in Webflow · Figma to Webflow · Advanced Webflow Interactions
-- No-Code Prototyping · Webflow Developer Handoff · Client-First Structure
-
-## Video Editing & Content Creation
-
-- Video Editing, Motion Graphics, Audio Sync & Transitions
-- Storyboarding & Visual Flow
-- Reels, Promo Edits, and UI Animation Videos
-- Editing for YouTube, Shorts, and LinkedIn
-- Workflow: Premiere Pro · After Effects · CapCut · Descript · ScreenStudio
 
 ## Highlight Projects
 
