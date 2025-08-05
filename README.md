@@ -108,7 +108,6 @@ Experienced UI/UX designer with a strong foundation in responsive design, intera
 I share UI/UX strategy, animation tips, and creative dev insights through:
 
 <!-- DEV-TO:START -->
-
 - [Top 10 YouTube Channels That a UI/UX Designer Should Visit](https://dev.to/yesiamrocks/top-10-youtube-channels-that-a-uiux-designer-should-visit-2f2g)
 - [Discover the Top 12 Developer-Friendly Websites You&#39;ll Absolutely Love](https://dev.to/yesiamrocks/discover-the-top-12-developer-friendly-websites-youll-absolutely-love-233h)
 - [9 Essential Tips for Writing Effective Emails](https://dev.to/yesiamrocks/9-essential-tips-for-writing-effective-emails-1bo3)
