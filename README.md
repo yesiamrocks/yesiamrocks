@@ -100,6 +100,7 @@ Experienced UI/UX designer with a strong foundation in responsive design, intera
 I share UI/UX strategy, animation tips, and creative dev insights through:
 
 <!-- DEV-TO:START -->
+
 - [Top 10 YouTube Channels That a UI/UX Designer Should Visit](https://dev.to/yesiamrocks/top-10-youtube-channels-that-a-uiux-designer-should-visit-2f2g)
 - [Discover the Top 12 Developer-Friendly Websites You&#39;ll Absolutely Love](https://dev.to/yesiamrocks/discover-the-top-12-developer-friendly-websites-youll-absolutely-love-233h)
 - [9 Essential Tips for Writing Effective Emails](https://dev.to/yesiamrocks/9-essential-tips-for-writing-effective-emails-1bo3)
@@ -107,7 +108,9 @@ I share UI/UX strategy, animation tips, and creative dev insights through:
 - [A Guide to Improving Code Quality](https://dev.to/yesiamrocks/a-guide-to-improving-code-quality-30i1)
 <!-- DEV-TO:END -->
 
-[![DEV Blog](https://img.shields.io/badge/DEV-Blog-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yesiamrocks)
+👇 Stay updated with tutorials, motion design tips, UI/UX workflows, and creative dev posts. Click below to follow my work on DEV.to
+
+[![Follow yesiamrocks on DEV.to](https://img.shields.io/badge/Follow-@yesiamrocks-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yesiamrocks)
 
 ## Latest Newsletter Issues
 
