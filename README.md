@@ -2,16 +2,18 @@
 
 [![Pavel, Design. Code. Animate. Lead](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=Design.%20Code.%20Animate.%20Lead&title=Pavel)](https://www.linkedin.com/in/shafayetul/)
 
-Visionary UI/UX Designer & Design Leader • Expert in Web Animation, Product Design & Team Leadership • Creator of {css}animation, scrollyJS, AnimText & Triggle • Host of Pixels & Projects • Building Scalable Digital UX
+Experienced UI/UX designer with a strong foundation in responsive design, interactive UI, and scalable design systems. Proficient in HTML, CSS, JavaScript, React, and GSAP. Skilled at collaborating with engineers, leading design teams, and delivering user-centered products that perform well across devices.
 
-[![{css}animation](https://img.shields.io/badge/%7Bcss%7Danimation-Library-7e2ea0?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/yesiamrocks/cssanimation)
+## Projects & Libraries I’ve Built for Designers and Developers
+
+[![{css}animation](https://img.shields.io/badge/%7Bcss%7Danimation-Library-7e2ea0?style=for-the-badge&logo=css&logoColor=white)](https://github.com/yesiamrocks/cssanimation)
 [![scrollyJS](https://img.shields.io/badge/scrollyJS-Scroll%20Animation-3ec6f2?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/yesiamrocks/scrollyjs)
-[![AnimText](https://img.shields.io/badge/AnimText-Text%20Animation-f43f5e?style=for-the-badge&logo=typography&logoColor=white)](https://github.com/yesiamrocks/animtext)
-[![Triggle.js](https://img.shields.io/badge/Triggle-Trigger%20Engine-FF6600?style=for-the-badge&logo=thunderbird&logoColor=white)](https://github.com/yesiamrocks/triggle)
-[![ClickStyles](https://img.shields.io/badge/ClickStyles-Button%20Animation-e91e63?style=for-the-badge&logo=mouse&logoColor=white)](https://github.com/yesiamrocks/ClickStyles)
-[![GSAPAnimation](https://img.shields.io/badge/gsapanimation-GSAP%20Library-0ae448?style=for-the-badge&logo=greensock&logoColor=white)](https://github.com/yesiamrocks/gsapanimation)
-[![ColorWave](https://img.shields.io/badge/ColorWave-Gradient%20Tools-FFB500?style=for-the-badge&logo=palette&logoColor=white)](https://github.com/yesiamrocks/colorwave)
-[![PrefabUI](https://img.shields.io/badge/PrefabUI-UI%20Components-1DA1F2?style=for-the-badge&logo=layout&logoColor=white)](https://github.com/yesiamrocks/prefabui)
+[![AnimText](https://img.shields.io/badge/AnimText-Text%20Animation-f43f5e?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/yesiamrocks/animtext)
+[![Triggle.js](https://img.shields.io/badge/Triggle-Trigger%20Engine-FF6600?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/yesiamrocks/triggle)
+[![ClickStyles](https://img.shields.io/badge/ClickStyles-Button%20Animation-e91e63?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/yesiamrocks/ClickStyles)
+[![GSAPAnimation](https://img.shields.io/badge/gsapanimation-GSAP%20Library-0AE448?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/yesiamrocks/gsapanimation)
+[![ColorWave](https://img.shields.io/badge/ColorWave-Gradient%20Tools-FFB500?style=for-the-badge&logo=css&logoColor=white)](https://github.com/yesiamrocks/colorwave)
+[![PrefabUI](https://img.shields.io/badge/PrefabUI-UI%20Components-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/yesiamrocks/prefabui)
 
 ## What I bring to the table:
 
@@ -31,37 +33,52 @@ Visionary UI/UX Designer & Design Leader • Expert in Web Animation, Product De
 
 ## Technologies & Tools
 
-**Design:**
+### Design:
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Zeplin](https://img.shields.io/badge/Zeplin-FFAE00?style=for-the-badge&logo=zeplin&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![FigJam](https://img.shields.io/badge/FigJam-9146FF?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Interface%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-Vector%20UI-F7B500?style=for-the-badge&logo=sketch&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-UI%20%2B%20Prototyping-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Zeplin](https://img.shields.io/badge/Zeplin-Design%20Handoff-FFAE00?style=for-the-badge&logo=zeplin&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-UX%20Docs%20%26%20Planning-000000?style=for-the-badge&logo=notion&logoColor=white)
+![FigJam](https://img.shields.io/badge/FigJam-Collaborative%20Whiteboarding-9146FF?style=for-the-badge&logo=figma&logoColor=white)
+![UserTesting](https://img.shields.io/badge/UserTesting-User%20Research-0052CC?style=for-the-badge&logo=usertesting&logoColor=white)
+![Maze](https://img.shields.io/badge/Maze-Usability%20Testing-121212?style=for-the-badge&logo=maze&logoColor=white)
+![Tokens Studio](https://img.shields.io/badge/Tokens%20Studio-Design%20Tokens%20Mgmt-8C52FF?style=for-the-badge&logo=figma&logoColor=white)
 
-**Code & Front-End:**
+### Code & Front-End:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Logic%20%26%20Interactivity-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Utility%20Classes-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-Animation%20Engine-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-Bundler-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-Next%20Gen%20Bundler-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-Visual%20Development-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-Package%20Manager-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-Package%20Manager-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
-**Workflow:**
+### Workflow:
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=trello&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Design Tokens](https://img.shields.io/badge/Design%20Token%20Systems-6200EA?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Code%20Collaboration-181717?style=for-the-badge&logo=github&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-Sprint%20Driven-27ae60?style=for-the-badge&logo=jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-Team%20Workflow-3498db?style=for-the-badge&logo=trello&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automated%20Deploys-0064a5?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Build%20%26%20Deploy-2088ff?style=for-the-badge&logo=githubactions&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-Deploys-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma Handoff](https://img.shields.io/badge/Figma%20Handoff-Dev%20Ready%20Designs-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
+![Design Tokens](https://img.shields.io/badge/Design%20Tokens-System%20Workflow-6200EA?style=for-the-badge)
+![Notion](https://img.shields.io/badge/Notion-Docs%20%26%20Planning-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+### Leadership & Strategy
+
+![Design Leadership](https://img.shields.io/badge/Design%20Leadership-Lead%20with%20Vision-c800de?style=for-the-badge&logo=leaders&logoColor=white)
+![Team Mentorship](https://img.shields.io/badge/Team%20Mentorship-Grow%20Talent-155dfc?style=for-the-badge&logo=people&logoColor=white)
+![Product Design Strategy](https://img.shields.io/badge/Product%20Design%20Strategy-Think%20Like%20a%20PM-f1c40f?style=for-the-badge&logoColor=white)
+![Agile & Scrum](https://img.shields.io/badge/Agile%20%26%20Scrum-Sprint%20Driven-27ae60?style=for-the-badge&logo=sprint&logoColor=white)
+![Cross-functional Collaboration](https://img.shields.io/badge/Cross--functional%20Collaboration-Team%20Alignment-e67e22?style=for-the-badge&logo=teams&logoColor=white)
 
 ## Webflow Skills
 
@@ -76,12 +93,12 @@ Visionary UI/UX Designer & Design Leader • Expert in Web Animation, Product De
 - [AnimText](https://github.com/yesiamrocks/animtext): Advanced text animation for headlines, intros, and more
 - [Triggle](https://github.com/yesiamrocks/triggle): Smart trigger-based animation engine (scroll, hover, click)
 
-## Content & Community
+## Latest Blog Posts on DEV.to
 
 I share UI/UX strategy, animation tips, and creative dev insights through:
 
-<!-- DEV-TO-START -->
-<!-- DEV-TO-END -->
+<!-- DEV-TO:START -->
+<!-- DEV-TO:END -->
 
 [![DEV Blog](https://img.shields.io/badge/DEV-Blog-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yesiamrocks)
 
@@ -116,7 +133,7 @@ Your support helps me keep improving my open-source animation libraries, share h
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@shafayetul-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafayetul/)
 [![Twitter](https://img.shields.io/badge/Twitter-@yesiamrocks-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yesiamrocks)
-[![Email](https://img.shields.io/badge/Email-info.bdpavel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.bdpavel@gmail.com)
+[![Email](https://img.shields.io/badge/Email-yesiamrocks@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yesiamrocks@gmail.com)
 
 ## Fun fact
 
