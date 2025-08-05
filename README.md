@@ -88,6 +88,14 @@ Experienced UI/UX designer with a strong foundation in responsive design, intera
 - Lottie in Webflow · Figma to Webflow · Advanced Webflow Interactions
 - No-Code Prototyping · Webflow Developer Handoff · Client-First Structure
 
+## Video Editing & Content Creation
+
+- Video Editing, Motion Graphics, Audio Sync & Transitions
+- Storyboarding & Visual Flow
+- Reels, Promo Edits, and UI Animation Videos
+- Editing for YouTube, Shorts, and LinkedIn
+- Workflow: Premiere Pro · After Effects · CapCut · Descript · ScreenStudio
+
 ## Highlight Projects
 
 - [{css}animation](https://github.com/yesiamrocks/cssanimation): Over 500 Effects, Letter, Word & Line Stagger Animations, Utilities, and easy CDN or NPM Install.
