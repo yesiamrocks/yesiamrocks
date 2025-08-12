@@ -20,9 +20,10 @@ Experienced UI/UX designer with a strong foundation in responsive design, intera
 - 16+ years of UI/UX, product design, and front-end development experience.
 - PMP®, PRINCE2®, and Microsoft Certified Professional (MCPS)
 - Deep expertise in animation, interaction design, design systems & accessibility
-- Leadership in remote, cross-functional teams for global clients
+- Leadership in remote, cross-functional teams, agency, and enterprise environments for global clients
 - Former clients include agencies, SaaS platforms, publishers, and Fortune 500s
 - Strong track record of mentoring teams, leading projects, and shipping delightful user experiences
+- Passionate about mentoring creatives, running async design processes, and building tools that empower designers and developers
 
 ## Core Skills – UI/UX (16+ yrs)
 
@@ -104,9 +105,11 @@ Experienced UI/UX designer with a strong foundation in responsive design, intera
 
 ## How I Work
 
-- I design with performance and scalability in mind — blending design systems with expressive motion.
-- I communicate async with tools like Notion, Slack, and Zoom.
-- I lead with mentorship, clean structure, and clear handoffs.
+- I design for both clarity and emotion, combining scalable systems with expressive animation to craft memorable user experiences.
+- I build clean, handoff-ready UIs using tools like Figma, Webflow, GSAP, and Tailwind CSS.
+- I communicate async and effectively with Notion, Slack, Loom, and GitHub Projects.
+- I lead through mentorship, design reviews, and structured collaboration with cross-functional teams.
+- I document everything, from design decisions to animation logic, to support better teamwork and faster iteration.
 
 ## Highlight Projects
 
