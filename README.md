@@ -34,10 +34,9 @@ Experienced UI/UX designer with a strong foundation in responsive design, intera
 ## Web & Web Animation (16+ yrs)
 
 - HTML5 · CSS3 · JavaScript (ES6+)
-- Web Animation (CSS, GSAP) · Microinteractions
-- Tailwind CSS · Component-Based Layouts
-- Scroll-Based Animations · Lightweight UI Transitions
-- Interaction Design · Animation Performance Optimization
+- Web Animation (CSS, GSAP) · Design to Code
+- Tailwind CSS · Bootstrap · Component-Based Layouts
+- Microinteractions · Animation Performance Optimization
 
 ## Webflow Skills (5+ yrs)
 
@@ -48,7 +47,7 @@ Experienced UI/UX designer with a strong foundation in responsive design, intera
 ## Video Editing & Content Creation (12+ yrs)
 
 - Video Editing, Motion Graphics, Audio Sync & Transitions
-- Storyboarding & Visual Flow
+- Storyboarding · UI Animation Reels · Visual Flow Planning
 - Reels, Promo & Tutorial Edits, and UI Animation Videos
 - Editing for YouTube, Shorts, LinkedIn & Product Demos
 
