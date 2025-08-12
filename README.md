@@ -24,26 +24,32 @@ Experienced UI/UX designer with a strong foundation in responsive design, intera
 - Former clients include agencies, SaaS platforms, publishers, and Fortune 500s
 - Strong track record of mentoring teams, leading projects, and shipping delightful user experiences
 
-## Core Skills
+## Core Skills – UI/UX (16+ yrs)
 
-- UI/UX Design · Landing Pages · Motion Design · Design Systems
+- UI/UX Design · Landing Pages · Responsive Interfaces
+- Design Systems · Motion-First UI · Accessibility Principles
+- Wireframes & Prototypes · Visual Consistency · Figma Components
+
+## Web & Web Animation (16+ yrs)
+
+- HTML5 · CSS3 · JavaScript (ES6+)
 - Web Animation (CSS, GSAP) · Microinteractions
-- Interaction Design · Accessibility-First Design
-- Team Leadership · Product Design Strategy
+- Tailwind CSS · Component-Based Layouts
+- Scroll-Based Animations · Lightweight UI Transitions
+- Interaction Design · Animation Performance Optimization
 
-## Webflow Skills
+## Webflow Skills (5+ yrs)
 
 - Webflow CMS · Webflow Animations (IX2) · Webflow Ecommerce
 - Lottie in Webflow · Figma to Webflow · Advanced Webflow Interactions
 - No-Code Prototyping · Webflow Developer Handoff · Client-First Structure
 
-## Video Editing & Content Creation
+## Video Editing & Content Creation (12+ yrs)
 
 - Video Editing, Motion Graphics, Audio Sync & Transitions
 - Storyboarding & Visual Flow
-- Reels, Promo Edits, and UI Animation Videos
-- Editing for YouTube, Shorts, and LinkedIn
-- Workflow: Premiere Pro · After Effects · CapCut · Descript · ScreenStudio
+- Reels, Promo & Tutorial Edits, and UI Animation Videos
+- Editing for YouTube, Shorts, LinkedIn & Product Demos
 
 ## Technologies & Tools
 
@@ -96,6 +102,12 @@ Experienced UI/UX designer with a strong foundation in responsive design, intera
 ![Agile & Scrum](https://img.shields.io/badge/Agile%20%26%20Scrum-27AE60?style=for-the-badge)
 ![Cross-functional Collaboration](https://img.shields.io/badge/Cross--functional%20Collaboration-E67E22?style=for-the-badge)
 
+## How I Work
+
+- I design with performance and scalability in mind — blending design systems with expressive motion.
+- I communicate async with tools like Notion, Slack, and Zoom.
+- I lead with mentorship, clean structure, and clear handoffs.
+
 ## Highlight Projects
 
 - [{css}animation](https://github.com/yesiamrocks/cssanimation): Over 500 Effects, Letter, Word & Line Stagger Animations, Utilities, and easy CDN or NPM Install.
@@ -108,6 +120,7 @@ Experienced UI/UX designer with a strong foundation in responsive design, intera
 I share UI/UX strategy, animation tips, and creative dev insights through:
 
 <!-- DEV-TO:START -->
+
 - [Top 10 YouTube Channels That a UI/UX Designer Should Visit](https://dev.to/yesiamrocks/top-10-youtube-channels-that-a-uiux-designer-should-visit-2f2g)
 - [Discover the Top 12 Developer-Friendly Websites You&#39;ll Absolutely Love](https://dev.to/yesiamrocks/discover-the-top-12-developer-friendly-websites-youll-absolutely-love-233h)
 - [9 Essential Tips for Writing Effective Emails](https://dev.to/yesiamrocks/9-essential-tips-for-writing-effective-emails-1bo3)
