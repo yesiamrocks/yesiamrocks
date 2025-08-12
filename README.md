@@ -31,7 +31,7 @@ Experienced UI/UX designer with a strong foundation in responsive design, intera
 - Design Systems · Motion-First UI · Accessibility Principles
 - Wireframes & Prototypes · Visual Consistency · Figma Components
 
-## Web & Web Animation (16+ yrs)
+## Web & Web Animation (12+ yrs)
 
 - HTML5 · CSS3 · JavaScript (ES6+)
 - Web Animation (CSS, GSAP) · Design to Code
